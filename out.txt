@@ -1,0 +1,11 @@
+P4: (end=4, turnaround=1, delay=0, response=0)
+P3: (end=5, turnaround=3, delay=1, response=0)
+P2: (end=8, turnaround=7, delay=3, response=0)
+P8: (end=11, turnaround=2, delay=0, response=0)
+P10: (end=13, turnaround=1, delay=0, response=0)
+P6: (end=14, turnaround=8, delay=5, response=2)
+P9: (end=18, turnaround=8, delay=4, response=4)
+P7: (end=23, turnaround=16, delay=11, response=11)
+P5: (end=29, turnaround=25, delay=19, response=19)
+P1: (end=36, turnaround=36, delay=28, response=0)
+P4P3P2P8P10P6P9P7P5P1
